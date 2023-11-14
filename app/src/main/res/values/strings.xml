@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Booky</string>
+    <string name="UsernameTxt">Username</string>
+    <string name="loginTxt">Login</string>
+    <string name="register_link">Create account !</string>
+    <string name="maggiIngredients" />
+</resources>
